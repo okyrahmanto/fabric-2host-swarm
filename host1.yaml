@@ -49,8 +49,6 @@ services:
       service: peer0.org1.example.com
     networks:
       - byfn
-    ports:
-    - 7051:7051
 
   cli:
     container_name: cli
