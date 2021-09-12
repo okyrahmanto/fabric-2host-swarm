@@ -1,0 +1,1 @@
+docker exec cli peer chaincode query -n trusted-chaincode -C mychannel -c $1
