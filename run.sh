@@ -38,4 +38,7 @@ if [ "$1" == "all-up" ]; then
     ./host3up.sh
     ./mychannelup.sh
     ./deploychaincode.sh
+    ./notificationMac.sh
+    
+    
 fi
